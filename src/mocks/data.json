@@ -1,0 +1,392 @@
+{
+  "data": [
+    {
+      "id": "f5a7e0cf-0e4d-4ed1-85f4-08b9bcdc05a1",
+      "name": "Italian Corner",
+      "address": "123 Main St",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2,
+          "reservations": [
+            {
+              "date": "2024-06-13",
+              "time": "05:15"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "size": 2,
+          "reservations": [
+            {
+              "date": "2024-06-13",
+              "time": "05:15"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "size": 4,
+          "reservations": [
+            {
+              "date": "2024-06-13",
+              "time": "06:00"
+            },
+            {
+              "date": "2024-06-12",
+              "time": "06:45"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "size": 4,
+          "reservations": [
+            {
+              "date": "2024-06-13",
+              "time": "06:00"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "size": 6
+        }
+      ]
+    },
+    {
+      "id": "c1b4f2b6-33e1-48e0-9f26-203c66b9b512",
+      "name": "Sushi Place",
+      "address": "456 Sushi St",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2,
+          "reservations": [
+            {
+              "date": "2024-06-13",
+              "time": "05:15"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "size": 2,
+          "reservations": [
+            {
+              "date": "2024-06-13",
+              "time": "05:15"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "size": 4,
+          "reservations": [
+            {
+              "date": "2024-06-12",
+              "time": "06:45"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        },
+        {
+          "id": 6,
+          "size": 8
+        },
+        {
+          "id": 7,
+          "size": 10,
+          "reservations": [
+            {
+              "date": "2024-06-08",
+              "time": "03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1c13b5d-4d21-4a7f-a382-1615d5b0a4c7",
+      "name": "Steak House",
+      "address": "789 Steak Ave",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 4
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 6
+        },
+        {
+          "id": 5,
+          "size": 6
+        },
+        {
+          "id": 6,
+          "size": 8
+        }
+      ]
+    },
+    {
+      "id": "bea91a95-bb5b-4b08-8a42-9bf63f9441b6",
+      "name": "Vegan Delight",
+      "address": "101 Vegan Blvd",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        }
+      ]
+    },
+    {
+      "id": "f3ff4d15-35b2-4e9c-b6b0-5ec01e9c8f2f",
+      "name": "Pizza Parlor",
+      "address": "202 Pizza Ln",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 4
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 6
+        }
+      ]
+    },
+    {
+      "id": "86817203-8b5c-4a84-a8e3-2e4bb5292928",
+      "name": "Seafood Shack",
+      "address": "303 Ocean Dr",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        }
+      ]
+    },
+    {
+      "id": "7f14c00e-4a14-4c14-bf9d-3c1a4f1f3ed1",
+      "name": "Mexican Fiesta",
+      "address": "404 Taco St",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        },
+        {
+          "id": 6,
+          "size": 8
+        }
+      ]
+    },
+    {
+      "id": "1e6f0ae3-67e2-4c5e-a315-3eb72c021d64",
+      "name": "French Bistro",
+      "address": "505 Wine Ave",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        }
+      ]
+    },
+    {
+      "id": "84e4b0f7-9b2d-4f59-835f-1c3c6ef8e924",
+      "name": "BBQ Joint",
+      "address": "606 BBQ Rd",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 4
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 6
+        },
+        {
+          "id": 5,
+          "size": 6
+        }
+      ]
+    },
+    {
+      "id": "17d94dab-e575-471e-98f5-4b9d8b28b3fb",
+      "name": "Indian Palace",
+      "address": "707 Curry Blvd",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        }
+      ]
+    },
+    {
+      "id": "9ed0bfa0-0305-4864-b1c0-5b2b7f2b8be0",
+      "name": "Chinese Garden",
+      "address": "808 Noodle St",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        },
+        {
+          "id": 6,
+          "size": 8
+        }
+      ]
+    },
+    {
+      "id": "2a3ff1bc-7c1b-4c5f-857a-11e2a1b5f39b",
+      "name": "Mediterranean Grill",
+      "address": "909 Olive Dr",
+      "tables": [
+        {
+          "id": 1,
+          "size": 2
+        },
+        {
+          "id": 2,
+          "size": 2
+        },
+        {
+          "id": 3,
+          "size": 4
+        },
+        {
+          "id": 4,
+          "size": 4
+        },
+        {
+          "id": 5,
+          "size": 6
+        }
+      ]
+    }
+  ]
+}
