@@ -7,7 +7,6 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       'https://easy-reserve.vercel.app',
-      'http://localhost:3000',
       '*', // Puedes agregar otras URL de desarrollo si es necesario
     ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
