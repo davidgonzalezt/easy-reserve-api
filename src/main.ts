@@ -5,7 +5,10 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.setGlobalPrefix('api');
   app.enableCors({
-    origin: '*', // Permitir todas las orígenes, cambiar según tus necesidades
+    origin: [
+      'https://easy-reserve-api.vercel.app/',
+      '*', // Puedes agregar otras URL de desarrollo si es necesario
+    ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     allowedHeaders: 'Content-Type, Accept',
   });
