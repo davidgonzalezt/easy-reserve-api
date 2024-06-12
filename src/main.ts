@@ -6,7 +6,7 @@ async function bootstrap() {
   app.setGlobalPrefix('api');
   app.enableCors({
     origin: [
-      'https://easy-reserve-api.vercel.app/',
+      'https://easy-reserve.vercel.app',
       '*', // Puedes agregar otras URL de desarrollo si es necesario
     ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
